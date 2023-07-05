@@ -46,7 +46,7 @@ function Feedback() {
       <UserInfo changeFirstName={changeFirstName} changeName={changeName} changeEmail={changeEmail}/>
       <FormControl sx={{ margin: '1rem 0' }}>
         <FormLabel>
-          Type d'avis
+          Type d&apos;avis
         </FormLabel>
         <RadioGroup
           row
